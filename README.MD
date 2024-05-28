@@ -214,7 +214,7 @@ Table of Contents
 #### 邮箱列表获取  
 
 * theHarvester ：https://github.com/laramies/theHarvester
-* 获取一个邮箱以后导出通讯录 
+* 获取一个邮箱以后导出通讯录 （均需要hunter账号）
 * LinkedInt :https://github.com/mdsecactivebreach/LinkedInt
 * Mailget：https://github.com/Ridter/Mailget
 
